@@ -3,6 +3,7 @@
     <div class="container sct-inner">
         <div class="row no-gutters">
             <div class="col-lg-3 col-md-6">
+            <!-- empty line -->
                 <div class="footer-top-box text-center">
                     <a href="{{ route('sellerpolicy') }}">
                         <i class="la la-file-text"></i>
